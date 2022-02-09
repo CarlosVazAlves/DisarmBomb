@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=597d8889_002Df58f_002D455c_002Da38b_002D185327eff10c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ValidColorExactMatch" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9195E6DA-4D30-46B7-990D-B5ED2E0B5685::net5.0::DisarmBombTest.ReadColorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9195E6DA-4D30-46B7-990D-B5ED2E0B5685::net5.0::DisarmBombTest.ColorRuleTest.PreviousColorNone&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9195E6DA-4D30-46B7-990D-B5ED2E0B5685::net5.0::DisarmBombTest.ColorRuleTest.RuleNotApplicableToColorCut&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9195E6DA-4D30-46B7-990D-B5ED2E0B5685::net5.0::DisarmBombTest.ColorRuleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9195E6DA-4D30-46B7-990D-B5ED2E0B5685::net5.0::DisarmBombTest.CheckIfGameIsPossibleTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
